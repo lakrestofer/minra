@@ -38,3 +38,10 @@ mapping between chunks and tags
 
 
 review_item:
+
+
+## Related work
+
+- https://github.com/Networks-Learning/memorize
+- https://github.com/open-spaced-repetition/fsrs4anki/wiki/Research-resources
+- https://github.com/open-spaced-repetition
