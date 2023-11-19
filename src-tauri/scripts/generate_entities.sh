@@ -2,4 +2,6 @@
 
 ./bin/sea-orm-cli generate entity\
   --with-serde=both\
-  --verbose
+  --output-dir="./entity/src/"\
+  --lib
+
