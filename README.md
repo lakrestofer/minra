@@ -1,14 +1,16 @@
 # Minra
 
+## TODO
+
 ## Model design
 
 ### Source
 
 a pdf, webpage that will be continuously read over time
 
-| id  | checksum         | title             | author            | description                                                        | path                    |
-| --- | ---------------- | ----------------- | ----------------- | ------------------------------------------------------------------ | ----------------------- |
-| 1   | aGVsbG8gd29ybGQ= | Dark Lords Answer | Eliezer Yudkowsky | Transported to another world story with a focus on macro economics | ./dark-lords-answer.pdf |
+| id  | checksum         | title             |  description                                                        | path                    | mime            |
+| --- | ---------------- | ----------------- |  ------------------------------------------------------------------ | ----------------------- | --------------- |
+| 1   | aGVsbG8gd29ybGQ= | Dark Lords Answer |  Transported to another world story with a focus on macro economics | ./dark-lords-answer.pdf | application/pdf |
 
 
 ### tags
